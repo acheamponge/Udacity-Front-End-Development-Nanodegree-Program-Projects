@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. 
+Answer the following questions:
+  
+
+* What new skills have you learned?
+  
+I have learned to be detailed oriented. Technically I have learned tags in HTML.
+
+* What has been easy?
+  
+Watching the videos has made tackling the problem sets really easy.
+
+
+* What has been difficult?
+  
+Creating the mockup websites from images and pdfs in other words using multiple elements from the studies to create a singular project.
