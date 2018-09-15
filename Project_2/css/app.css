@@ -19,6 +19,7 @@ body {
 body {
     background: #ffffff url('../img/geometry2.png'); /* Background pattern from Subtle Patterns */
     font-family: 'Coda', cursive;
+    color: #393939;
 }
 
 .container {
@@ -29,7 +30,7 @@ body {
 }
 
 h1 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Arial', sans-serif;
     font-weight: 300;
 }
 
@@ -49,6 +50,7 @@ h1 {
     justify-content: space-between;
     align-items: center;
     margin: 0 0 3em;
+    list-style-type: none;
 }
 
 .deck .card {
@@ -79,31 +81,4 @@ h1 {
     cursor: default;
     background: #02ccba;
     font-size: 33px;
-}
-
-/*
- * Styles for the Score Panel
- */
-
-.score-panel {
-    text-align: left;
-    width: 345px;
-    margin-bottom: 10px;
-}
-
-.score-panel .stars {
-    margin: 0;
-    padding: 0;
-    display: inline-block;
-    margin: 0 5px 0 0;
-}
-
-.score-panel .stars li {
-    list-style: none;
-    display: inline-block;
-}
-
-.score-panel .restart {
-    float: right;
-    cursor: pointer;
 }
